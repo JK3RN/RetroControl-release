@@ -1,0 +1,11 @@
+{
+  "tools": [
+    {
+      "id": "editor",
+      "name": "My Editor",
+      "path": "~/Applications/my-editor",
+      "launch": ["./my-editor"],
+      "match": ["my-editor"]
+    }
+  ]
+}
