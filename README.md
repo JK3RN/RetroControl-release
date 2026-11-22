@@ -1,5 +1,7 @@
 # RetroControl
 
+Deutsch · [English](README.en.md)
+
 Eine persönliche Anwendungszentrale für Linux. RetroControl startet und stoppt lokale Programme und zeigt Prozessstatus, Laufzeit, CPU- und Speicherverbrauch. Jede registrierte Anwendung funktioniert auch eigenständig.
 
 ![Echtes RetroControl-Fenster mit acht registrierten Anwendungen, Prozessanzeige und Tastatursteuerung](docs/showcase.png)
